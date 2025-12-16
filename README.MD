@@ -326,11 +326,6 @@ Use `/dashboard` daily to monitor status, `/stats` to track usage, and `/update`
 CarbonForge Bot
 Developer: Techoraye
 
-Owners:
-
-* [https://github.com/techoraye](https://github.com/techoraye)
-* [https://github.com/technomagniaque](https://github.com/technomagniaque)
-
 ---
 
 Last Updated: December 2025
