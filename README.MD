@@ -20,7 +20,7 @@ Welcome to **CarbonForge**! This is your complete guide to deploying and managin
   - [Maintenance Commands](#maintenance-commands)
 - [Daily VPS Management](#daily-vps-management)
 - [Troubleshooting](#troubleshooting)
-- [Support & Credits](#support--credits)
+- [Support & Credits](#-support--credits)
 
 ---
 
@@ -733,64 +733,6 @@ Connect: ssh root@192.168.0.150 -p 32001
 - Remaining disk space
 
 ---
-
----
-
-## 🚀 Deployment Guide
-
-### Deploying Your First VPS (Paid Version)
-
-1. **Check Available Plans**
-   ```
-   /price plan:[select plan] days:30
-   ```
-   This shows you all available plans and pricing.
-
-2. **Deploy a Container**
-   ```
-   /deploy name:my-vps plan:[select plan] days:30
-   ```
-   
-   **Parameters:**
-   - **name** - Your container name (e.g., "my-server", "web-app")
-   - **plan** - Select from available plans
-   - **days** - Number of days (1-365)
-
-3. **Receive Invoice**
-   - You'll receive an invoice via DM
-   - Invoice includes payment instructions
-   - Note your Invoice ID
-
-4. **Make Payment**
-   - Use the payment method specified in invoice
-   - **Important:** Include your Invoice ID in payment note
-
-5. **Confirm Payment**
-   - Owner will confirm your payment
-   - Container deployment starts automatically
-   - You'll receive credentials when ready
-
-6. **Access Your VPS**
-   ```
-   /dashboard
-   ```
-   Use the SSH command shown to connect to your container.
-
-### Deploying Your First VPS (Free Version)
-
-1. **Contact Admin**
-   - Ask an admin to deploy a container for you
-   - Provide your desired container name
-
-2. **Receive Credentials**
-   - Admin will provide container ID
-   - You'll receive SSH credentials
-
-3. **Access Your VPS**
-   ```
-   /dashboard
-   ```
-   View your connection details.
 
 ---
 
