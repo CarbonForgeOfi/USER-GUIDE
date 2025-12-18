@@ -150,6 +150,15 @@ Extend your container subscription.
 
 Upgrade or downgrade your plan.
 
+**Upgrade discount (important):**
+
+- If you **upgrade within the first 3 days** after your VPS is activated **and** you have **at least 7 days remaining**, you **don’t pay the full new plan price**.
+- Instead, you only pay the **difference** between plans for your remaining time:
+  - \((new_plan_price - current_plan_price) × days_remaining\)
+- **Special rule:** If you are on **ADVANCED**, you can upgrade to a higher plan **anytime** and it will still be **pro‑rated** (difference only).
+
+If you try to upgrade with **less than 7 days remaining**, you’ll be asked to use `/extend` first.
+
 #### /price
 
 Calculate pricing for a selected plan.
